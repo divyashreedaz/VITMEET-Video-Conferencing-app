@@ -15,6 +15,10 @@ This can be useful to conduct business meetings or personal video
 meeting during family functions providing a location independent
 lifestyle.
 
+## deployment link:
+https://vitmeet.herokuapp.com/
+
+
 ## Installation 
 After download or clone run `npm install` to install all the dependancies.
 
